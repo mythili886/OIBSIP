@@ -1,0 +1,24 @@
+
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
