@@ -22,3 +22,8 @@ __pycache__/
 # Operating system files
 .DS_Store
 Thumbs.db
+connectx.db
+__pycache__/
+*.pyc
+.venv/
+venv/
